@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Nesty</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate software developer</h3>
 <img align=“right” alt = “coding“ width = “400” src=“https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif”>
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React Native, Data Engineering**
 
-- 👯 I’m looking to collaborate on **Large scale frontend Project**
+- 👯 I’m looking to collaborate on **Large scale software Project**
 
 - 🤝 I’m looking for help with **AI System Integration**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Nestyafam@gmail.com**
 
-- ⚡ Fun fact **I think I can lift heavier than you**
+- ⚡ Fun fact **I think I can bench press heavier than you **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
